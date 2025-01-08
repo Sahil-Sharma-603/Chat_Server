@@ -1,10 +1,8 @@
 
-# Comp3010 A1 README
-
-This document provides instructions for running Assignment 1 (A1) for the Comp3010 course.
+# Chat Server
 
 
-## Steps to Run A1
+## Steps to Run a program
 
 1. **Open a Terminal**  
    Open a terminal in mac or command line in windows machine.
